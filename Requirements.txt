@@ -1,0 +1,7 @@
+Hello,I am looking for someone really good in OpenGl c++ coding games On Visual Studio.Now ,I will explain what is required:the game should be a stick man that moves from falling blocks from the sky above.The Game should have :
+
+1-a background image ;2-the man that should be able to move ;3-the falling blocks RANDOMLY from the clouds ;4-Score counting ;5-different Levels approximately 7 (ps:I LET YOU CHOOSE HOW TO Climb levels );6-a menu bar with different options(like restart,quit,help ...);7-a music effect that goes with the Game and that should be good but,since I am a BEginner i will need //comments for approximately each line to understand and also help after the project is done if i need additional informations .And,Please DO NOT FORGET IT IS C++ OPENGL IN VISUAL STUDIO and,Thank you.
+
+pS:IF YOU NEED ADDITIONAL CLARIFICATIONS DO NOT HESITATE TO ASK
+
+Requirements: no problem   |   .doc file
